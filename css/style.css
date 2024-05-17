@@ -1,1 +1,40 @@
 /* ini css */
+.section-content {
+    background-color: darkgrey;
+    color: blue;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+.section-content > h3 {
+    margin: 0;
+}
+
+#tombol_keliling{
+    background-color: coral;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    text-align: center;
+    border: 0;
+    width: 100%;
+}
+
+.rumus {
+    text-align: center;
+    width: 100%;
+}
+
+input {
+    width: 100%;
+    background-color: bisque;
+    margin-bottom: 2px;
+    border-radius: 5px;
+}
+button {
+    border-radius: 5px;
+}
+
+#btn-reset {
+    background-color: red;
+}
